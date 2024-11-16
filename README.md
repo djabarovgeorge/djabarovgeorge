@@ -1,8 +1,10 @@
-### Hi there 👋
+### Hi there! 👋  
 
-My name is George and i'm a software developer from Tel Aviv, Israel. I'm excited about web scale technology.
+I'm George Djabarov, a software developer from Israel with a passion for building efficient backends, elegant frontends, and solving complex challenges.  
 
-🔭 I’m **currently building [Novu](https://github.com/notifirehq/notifire)** an open source notification infrastructure for products.
+I’m always exploring ways to blend creativity and logic to deliver impactful solutions. 🚀  
+
+🔭 I’m **currently building [Novu](https://github.com/notifirehq/notifire)** an open source notifications framework for developers.
 
 <!--
 **djabarovgeorge/djabarovgeorge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
